@@ -1,5 +1,5 @@
 const WHATSAPP_URL = 'https://wa.me/5490000000000'
-const INSTAGRAM_URL = 'https://instagram.com/decor.arte'
+const INSTAGRAM_URL = 'https://www.instagram.com/decor.arte.lr/'
 
 export default function Footer() {
   return (
